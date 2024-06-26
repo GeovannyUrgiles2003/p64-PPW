@@ -58,7 +58,7 @@
     height: 45px;
 }
 
-.cuadro1 {
+.cuadroAmarillo {
     background-color: yellow;
     padding: 150px;
     width: 32% ;
@@ -66,7 +66,7 @@
     border: 2px solid black;
 }
 
-.cuadro2, .cuadro3, .cuadro4 {
+.cuadroGris, .cuadroAzul, .cuadroRosado {
     height: 70px;
     color: black;
     text-align: center;
@@ -75,15 +75,15 @@
     width: 150% ;
 }
 
-.cuadro2 {
+.cuadroGris {
     background-color: rgb(212, 212, 212);
 }
 
-.cuadro3 {
+.cuadroAzul {
     background-color: blue;
 }
 
-.cuadro4 {
+.cuadroRosado {
     background-color:pink;
 }
 
