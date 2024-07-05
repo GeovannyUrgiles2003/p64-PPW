@@ -1,0 +1,46 @@
+h1 {
+    font-size: 40px;
+    font-style:  italic;
+    text-shadow: 8px 8px 5px rgba(0, 0, 0, 0.5);
+    color: rgb(14, 242, 250);
+    background-color: rgb(0, 0, 0);
+}
+
+li.enlace {
+    display: inline-block;
+}
+
+.container-imagen {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.imagen {
+    width: 400px;
+}
+
+.caja-enlace {
+    display: block;
+    width: 200px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px;
+    margin: 5px;
+    color: rgb(14, 242, 250);
+}
+
+.container-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    
+    
+}
+
+.container-footer {
+    color: rgb(14, 242, 250);
+    font-size: 20px;
+    background-color: black;
+}
+
